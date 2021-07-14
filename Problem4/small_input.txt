@@ -1,0 +1,7 @@
+eyr:2021 hgt:168cm hcl:#fffffd pid:180778832 byr:1923 ecl:amb iyr:2019 cid:241
+
+hcl:#341e13 ecl:lzr eyr:2024 iyr:2014 pid:161cm byr:1991 cid:59 hgt:150cm
+
+iyr:2018 eyr:2027
+hgt:153cm
+pid:642977294 ecl:gry hcl:#c0946f byr:1999
