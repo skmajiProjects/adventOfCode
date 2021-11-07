@@ -11,7 +11,7 @@ import (
 var sumTotal int = 2020
 
 func main() {
-	var loopCount int // Count of numbers adding up to 2020
+	var loopCount int // Count of numbers adding up to 1900
 	sum := 0
 	product := 1
 	loopInit := 0
